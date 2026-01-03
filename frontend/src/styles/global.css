@@ -1,0 +1,23 @@
+/* src/styles/global.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f7fa;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  cursor: pointer;
+  background-color: #007bff;
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Add headers, tables, forms styling as needed */
