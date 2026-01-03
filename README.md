@@ -41,7 +41,7 @@ The objective of this portal is to create a secure and scalable verification sys
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Node.js  
@@ -96,7 +96,7 @@ cd UP_Police_Women_Safety_Portal
 
 ---
 
-### 2️⃣ Backend Setup
+###  Backend Setup
 ```bash
 cd backend
 npm install
